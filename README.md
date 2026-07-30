@@ -4,7 +4,7 @@
 
 # Hi, I'm Ramanjot Singh 👋
 
-**AI Engineer turned Product Manager @ Voice Rabbitt AI**
+**AI Engineer turned Product Manager @ Rabbitt AI**
 Shipping GenAI applications, RAG pipelines, and multi-agent systems — now building an AI voice agent platform end to end.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramanjot-singh-65a512274)
@@ -106,7 +106,7 @@ Shipping GenAI applications, RAG pipelines, and multi-agent systems — now buil
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Raman-0123&theme=tokyonight&hide_border=true" />
 
 </div>
 
