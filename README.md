@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=AI+Engineer+%E2%86%92+Product+Manager;Building+RAG+%2B+Multi-Agent+Systems;LangChain+%7C+LangGraph+%7C+Agentic+AI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+Machine+Learning+Engineer;Building+RAG+%2B+Multi-Agent+Systems;LLMs+%7C+LangChain+%7C+LangGraph+%7C+Agentic+AI;DevOps+%7C+Cloud+%7C+Backend+Engineering" alt="Typing SVG" />
 
 # Hi, I'm Ramanjot Singh 👋
 
