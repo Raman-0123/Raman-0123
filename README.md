@@ -4,8 +4,7 @@
 
 # Hi, I'm Ramanjot Singh 👋
 
-**AI Engineer turned Product Manager @ Rabbitt AI**
-Shipping GenAI applications, RAG pipelines, and multi-agent systems — now building an AI voice agent platform end to end.
+**AI Engineer | Machine Learning Engineer | DevOps Engineer | Backend & Cloud Engineer | iOS Developer | LLMs • Generative AI • RAG • Multi-Agent Systems • AI Voice Agents • MLOps • Distributed Systems**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramanjot-singh-65a512274)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-iamramanjot444-gmailcoms-projects.vercel.app/)
