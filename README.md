@@ -1,128 +1,150 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+Machine+Learning+Engineer;Building+RAG+%2B+Multi-Agent+Systems;LLMs+%7C+LangChain+%7C+LangGraph+%7C+Agentic+AI;DevOps+%7C+Cloud+%7C+Backend+Engineering" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=25&pause=1200&color=6366F1&center=true&vCenter=true&width=850&lines=AI+Engineer+%7C+Machine+Learning+Engineer;Building+Production+AI+Systems;LLMs+%7C+RAG+%7C+Multi-Agent+Systems;DevOps+%7C+Cloud+%7C+Backend+Engineering;Open+Source+Contributor" alt="Typing SVG" />
 
 # Hi, I'm Ramanjot Singh 👋
 
-**AI Engineer | Machine Learning Engineer | DevOps Engineer | Backend & Cloud Engineer | iOS Developer | LLMs • Generative AI • RAG • Multi-Agent Systems • AI Voice Agents • MLOps • Distributed Systems**
+### AI Engineer | Machine Learning Engineer | DevOps Engineer | Backend Engineer | Cloud Engineer | iOS Developer
+
+Building production-ready AI systems powered by **LLMs, Generative AI, RAG, Multi-Agent Systems, AI Voice Agents, MLOps, Cloud Infrastructure, and Distributed Systems.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramanjot-singh-65a512274)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-iamramanjot444-gmailcoms-projects.vercel.app/)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-5s1e.vercel.app/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Raman-0123)
+
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iamramanjot444@gmail.com)
 
 </div>
 
 ---
 
-### 🚀 About Me
+# 🚀 About Me
 
-- 🛠️ Currently a **Product Manager at Voice Rabbitt AI**, an AI voice agent platform — bridging DevRel, community growth, content, and product docs with hands-on engineering
-- 🧠 Background as an **AI Engineer**, specializing in GenAI, LLM applications, RAG systems, and multi-agent architectures
-- 🔭 Exploring **LangChain**, **LangGraph**, and agentic AI design patterns
-- 📈 Interested in scalable AI systems, MLOps, and production-grade infrastructure
-- 🌱 Open-source enthusiast — always building, breaking, and shipping
+- 🤖 AI Engineer passionate about building production-ready Generative AI applications.
+- 🧠 Specialized in **LLMs, RAG, Multi-Agent Systems, AI Agents, and AI Voice Platforms.**
+- ☁️ Experienced in **Cloud Computing, DevOps, Backend Engineering, and MLOps.**
+- 🔭 Exploring **LangChain, LangGraph, MCP, Agentic AI, and Distributed Systems.**
+- 💡 Passionate about building scalable AI products from research to production.
+- 🌱 Open-source enthusiast who loves solving real-world engineering problems.
 
 ---
 
-### 🛠 Tech Stack
+# 🛠 Tech Stack
 
-**Languages**
+### Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 
-**AI & Machine Learning**
+---
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+### AI & Machine Learning
+
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-Agent%20Orchestration-blue?style=flat-square)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
-**Backend**
+---
+
+### Backend
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
-**Databases**
+---
+
+### Databases
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-1C1C1C?style=flat-square)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector%20Database-6E56CF?style=flat-square)
 
-**Cloud & DevOps**
+---
+
+### DevOps & Cloud
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
 ---
 
-### 🌟 Featured Projects
+# 🌟 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%">
-      <h4>🔄 Context Handoff System</h4>
-      Multi-agent memory and context transfer framework enabling agents to hand off tasks without losing conversational state.
-    </td>
-    <td width="50%">
-      <h4>🔍 AI Research Assistant</h4>
-      RAG-based knowledge retrieval system automating research workflows over large document sets.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h4>📧 Email Classification Agent</h4>
-      Intelligent agent for categorizing and prioritizing inbound email using LLM-based classification.
-    </td>
-    <td width="50%">
-      <h4>💧 Water Quality Analysis</h4>
-      Machine learning model for predicting water quality from sensor and lab data.
-    </td>
-  </tr>
-</table>
+| Project | Description |
+|---------|-------------|
+| 🎙️ **AI Voice Agent Platform** | Building production-grade conversational AI systems with real-time voice interactions and LLM orchestration. |
+| 🤖 **Multi-Agent Systems** | Agent collaboration frameworks using LangGraph, MCP, memory management, and intelligent orchestration. |
+| 📚 **RAG Research Assistant** | Enterprise Retrieval-Augmented Generation system with vector databases and semantic search. |
+| 🔄 **Context Handoff Framework** | Enables AI agents to transfer tasks while preserving long-term conversational context. |
+| 💧 **Water Quality Prediction** | Machine Learning pipeline for environmental data analysis and predictive modeling. |
+| 🧮 **Project Dynamo (Handshake AI)** | Designed and implemented an advanced combinatorial optimization benchmark for frontier AI evaluation. |
 
 ---
 
-### 📈 Current Focus
+# 🚀 Current Focus
 
-- 🤖 Multi-Agent AI Systems
-- 🏗️ Production RAG Pipelines
-- 📚 AI Engineering Best Practices
+- 🤖 AI Agents & Multi-Agent Systems
+- 🧠 Large Language Models (LLMs)
+- 📚 Retrieval-Augmented Generation (RAG)
+- 🎙️ AI Voice Agents
+- ☁️ Cloud Infrastructure & DevOps
+- ⚙️ Backend APIs & Distributed Systems
+- 🚀 Production AI Engineering
 - 🌍 Open Source Contributions
-- 🎙️ AI Voice Agent Products @ Voice Rabbitt AI
 
 ---
 
-### 📊 GitHub Stats
+# 📈 GitHub Statistics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Raman-0123&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Raman-0123&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raman-0123&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Raman-0123&theme=tokyonight&hide_border=true"/>
 
 </div>
-
-> ⚠️ Swap `YOUR_GITHUB_USERNAME` above with your actual GitHub username for these to render.
 
 ---
 
-### 🤝 Connect With Me
+# 🤝 Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramanjot-singh-65a512274)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-iamramanjot444-gmailcoms-projects.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iamramanjot444@gmail.com)
+<a href="https://www.linkedin.com/in/ramanjot-singh-65a512274/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="https://portfolio-5s1e.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel">
+</a>
+
+<a href="https://github.com/Raman-0123">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="mailto:iamramanjot444@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+</a>
 
 </div>
 
+---
+
 <div align="center">
-<sub>⭐️ Thanks for stopping by — always open to collaborating on AI/agentic projects.</sub>
+
+### 💡 *"Building intelligent systems that are scalable, reliable, and production-ready."*
+
+⭐ If you like my work, consider giving a star to the repositories you find interesting!
+
 </div>
